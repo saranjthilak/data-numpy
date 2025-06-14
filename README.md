@@ -1,6 +1,12 @@
 The goal of this challenge is to get familiar with the Numpy library, manipulate multidimensional arrays and apply some linear algebra operations without using `for` loops.
 
-There is no `make` for this challenge as all will happen in the Notebook. You will get visual confirmation of the correct answer by looking at the output below the cell.
+# data-numpy
+
+A collection of NumPy-based data processing and analysis scripts created for learning and experimenting with array manipulations, mathematical operations, and data handling using NumPy in Python.
+
+## 📂 Project Structure
+
+
 
 In your terminal, please run:
 
